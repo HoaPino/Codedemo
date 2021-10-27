@@ -1,7 +1,7 @@
 const {MongoClient,ObjectId} = require('mongodb')
 
-const DATABASE_URL = 'mongodb+srv://vthanh:vktmk123@cluster0.6myqd.mongodb.net/test'
-const DATABASE_NAME = 'vthanhmk'
+const DATABASE_URL = "mongodb+srv://Trunghoa:Hattieu0203@cluster0.ouerx.mongodb.net"
+const DATABASE_NAME = "TrungHoa"
 
 //vi du obj la thong tin can insert, 
 //collection: ten cua bang can insert-vd Products
